@@ -7,6 +7,7 @@ This project detects unusual login behavior using Machine Learning.
 - Detects abnormal login times
 - Identifies suspicious locations
 - Tracks device-based anomalies
+- Uses Isolation Forest algorithm
 
 ## 🧠 Technologies Used
 - Python
